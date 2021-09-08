@@ -1,5 +1,5 @@
-# Projects
-A place for my projects
+# Freshman Year Projects
+A place for my projects from my freshman year. These are mostly assignments I completed that I believe demonstrate a variety of skills.
 
 ****** Pokemon Game *******
 This is a text based game that I had to make as an assignment that I feel shows a variety of useful skills being utilized in python.
